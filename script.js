@@ -1,6 +1,6 @@
 function escolha1() {
   document.getElementById('historia').innerHTML = `
-    <p>Leo se aproxima com um sorriso tímido. Rafael retribui. Descobrem que vieram sozinhos. Cantam "Born This Way" juntos, rindo como velhos amigos.</p>
+    <p>Leo se aproxima com 1 sorriso tímido. Rafael retribui. Descobrem que vieram sozinhos. Cantam "Born This Way" juntos, rindo como velhos amigos.</p>
     <p>Mas, no meio da empolgação, a chuva começa e eles se perdem um do outro na multidão.</p>
   `;
   document.getElementById('opcoes').innerHTML = `
